@@ -18,7 +18,7 @@ title: DevOps Visions Community # the main title
 
 tagline: <div>If you want to go fast, go alone. If you want to go far, go together</div> # it will display as the sub-title
 
-description: 
+description: DevOps Visions is an exclusive community of approximately 150 members from across the world. We have members from over 20 countries and have varied levels of experience. Our primary objective is to facilitate the sharing and exchange of knowledge within our group, thereby promoting ongoing, continuous learning and professional development.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -224,3 +224,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-data

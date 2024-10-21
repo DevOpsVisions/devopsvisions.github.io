@@ -168,8 +168,5 @@ You can watch the following video that walks you through all the steps explained
 
 [![Public Session](/assets/img/issue-types/21-session.png)](https://www.linkedin.com/events/7234094335183536128)
 
-
-
-
-
-
+{% include about_author.html %}
+{% include about_devops_visions.html %}
