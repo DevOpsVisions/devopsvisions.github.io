@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Understanding GitHub Limits: Size, Boundaries, and Spaces"
-date:   2024-10-07 07:00:05 +0100
-author: Mohamed Radwan     
+date:   2024-11-27 07:00:05 +0100
+author: Mohamed Radwan
 categories: [Blogging, Post]
 tags: [github, limits] 
 ---
@@ -72,7 +72,9 @@ GitHub Packages has a 5 GB limit for any individual package. So, if you try to u
 
 Yes, you can upgrade your plan for additional storage. On the Pro Plan, you get 2 GB, and on the Enterprise Plan, you get 50 GB of storage.
 
-For more detailed information about the limits on GitHub Packages, you can visit the official GitHub documentation: [GitHub Packages Limits](https://docs.github.com/en/packages/working-with-a-github-packages-registry/about-github-packages)
+For more detailed information about the limits on GitHub Packages, you can visit the official GitHub documentation:
+
+[GitHub Packages Limits](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-packages/managing-your-spending-limit-for-github-packages)
 
 ## 3. GitHub Releases - File and Storage Limits
 
