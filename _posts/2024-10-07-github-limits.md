@@ -107,7 +107,6 @@ If your releases contain files larger than 2 GB, you may need to:
 - Split them across multiple releases.
 - Use Git LFS (Large File Storage) for large assets.
 
-For more details on GitHub Releases and how to manage them, you can check out the [GitHub Releases Documentation](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-your-repository).
 
 ## 4. Repository Size Limits
 
@@ -116,6 +115,10 @@ GitHub repositories have limits on the total size, affecting the overall perform
 ### Repository Size Limit
 
 The recommended size for a repository is 1 GB, but GitHub allows repositories up to 100 GB.
+
+Individual File Size: Files larger than 100 MB cannot be pushed.
+
+Git LFS: Large files exceeding 100 MB can use Git Large File Storage (LFS), with its own quotas.
 
 **Example:**
 
@@ -131,7 +134,9 @@ Git LFS is not counted towards the regular repository size. The storage and band
 
 ### Git LFS Size Limits
 
-The default storage for Git LFS is 1 GB per user on the Free Plan. This storage can be increased by purchasing additional storage or upgrading to the Pro or Enterprise plans, which provide 50 GB of storage by default. For more information on Git LFS and its limits, you can visit [Git LFS Limits](https://docs.github.com/en/github/managing-large-files/versioned-files-with-git-large-file-storage).
+The default storage for Git LFS is 1 GB per user on the Free Plan. This storage can be increased by purchasing additional storage or upgrading to the Pro or Enterprise plans, which provide 50 GB of storage by default. For more information on Git LFS and its limits, you can visit 
+
+[Git LFS Limits](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage).
 
 ### Repository Size Limits Based on Plan
 
