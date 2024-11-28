@@ -2,9 +2,9 @@
 layout: post
 title:  "Understanding GitHub Limits: Size, Boundaries, and Spaces"
 date:   2024-10-07 07:00:05 +0100
-author: Rehab Ragab     
+author: Mohamed Radwan     
 categories: [Blogging, Post]
-tags: [github, limits, boundaries, spaces] 
+tags: [github, limits] 
 ---
 
 When using GitHub services, it’s crucial to understand the limits and boundaries that come with each feature. These limits determine the size of files, storage space, and the time allowed for processes like CI/CD jobs. Knowing these limits can help you plan accordingly, avoid errors, and determine when to upgrade your plan.
@@ -35,7 +35,14 @@ Artifacts are kept for 90 days by default. For example, if you upload Website-Pa
 
 **Can I change the retention period?**
 
-Unfortunately, GitHub’s default retention period of 90 days cannot be changed for artifacts. [Learn more about GitHub Actions retention limits here.](https://docs.github.com/en/actions/using-workflows/workflow-run-logs#artifact-and-log-storage)
+Yes, you can adjust the retention period, depending on the type of repository:
+
+- For public repositories: you can change this retention period to anywhere between 1 day or 90 days.
+- For private repositories: you can change this retention period to anywhere between 1 day or 400 days.
+  
+When you customize the retention period, it only applies to new artifacts and log files, and does not retroactively apply to existing objects. For managed repositories and organizations, the maximum retention period cannot exceed the limit set by the managing organization or enterprise.
+
+[Learn more about GitHub Actions retention limits here.](https://docs.github.com/en/organizations/managing-organization-settings/configuring-the-retention-period-for-github-actions-artifacts-and-logs-in-your-organization)
 
 If you need to retain your artifacts longer, you can download them before the retention limit expires or move them to an external storage service.
 
