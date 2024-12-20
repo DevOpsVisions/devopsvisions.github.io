@@ -2,7 +2,8 @@
 layout: post
 title: "Public Sessions 2024"
 date: 2024-12-20 10:00:05 +0100
-categories: [Blogging, Session]
+author: Rehab Ragab
+categories: [Blogging, Sessions]
 tags: [github]
 pin: true
 ---
