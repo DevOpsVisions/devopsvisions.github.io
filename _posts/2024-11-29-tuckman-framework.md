@@ -4,7 +4,7 @@ title:  "Tuckman’s Framework: A Guide to Team Development"
 date:   2024-11-29 07:00:05 +0100
 author: Waddah Azhary     
 categories: [Blogging, Post]
-tags: [Managment, Leadership] 
+tags: [managment, leadership] 
 ---
 
 # Tuckman’s Framework: A Guide to Team Development
