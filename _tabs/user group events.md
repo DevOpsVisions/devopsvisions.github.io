@@ -6,7 +6,7 @@ order: 5
 
 All community sessions past and upcoming are listed below. The most recent events appear at the top.
 
-## GitHub Foundation Course [AR] [May 2025]-[#1]
+## 🔹 GitHub Foundation Course [AR] [May 2025]-[#1]
 
 ### 📝About this event: 
 
@@ -24,7 +24,8 @@ A comprehensive course launching in May 2025 that covers everything you need to 
 - **🏷️ Tags:** `github` `visibility` `project management`
 
 ---
-## Guest Speaker: The Secret to Success with Vukasin Terzic
+
+## 🔹 Guest Speaker: The Secret to Success with Vukasin Terzic
 
 ### 📝About this event: 
 
@@ -42,7 +43,8 @@ In this session, Vukasin will share with our community his valuable insights and
 - **🏷️ Tags:** `guest` `sharing` `community`
 
 ---
-## AI Revolution: Transforming Knowledge Bases with GitHub Copilot
+
+## 🔹 AI Revolution: Transforming Knowledge Bases with GitHub Copilot
 
 ### 📝About this event: 
 
@@ -62,7 +64,7 @@ With tools like GitHub Copilot evolving rapidly, we saw an opportunity to redefi
 
 ---
 
-## Reusability Mindset Meets GitHub: Shaping Smarter Engineering Practices
+## 🔹 Reusability Mindset Meets GitHub: Shaping Smarter Engineering Practices
 
 ### 📝About this event: 
 
@@ -87,7 +89,7 @@ Dive into the Reusability Mindset, exploring how it transforms engineering pract
 
 ---
 
-## GitHub Package Management with Actions: From Repetition to Reusability
+## 🔹 GitHub Package Management with Actions: From Repetition to Reusability
 
 ### 📝About this event: 
 
@@ -106,7 +108,7 @@ Discover how to eliminate code duplication and streamline your projects by creat
 
 ---
 
-## GitHub Pages: From Repository to Blog in Minutes
+## 🔹 GitHub Pages: From Repository to Blog in Minutes
 
 ### 📝About this event: 
 
@@ -125,7 +127,7 @@ Discover how easy it is to create and host your blog on GitHub Pages, a powerful
 
 ---
 
-## Discovering GitHub's New Issues (Beta) Experience for Optimizing Backlog
+## 🔹 Discovering GitHub's New Issues (Beta) Experience for Optimizing Backlog
 
 ### 📝About this event: 
 
@@ -144,7 +146,7 @@ Step into the future of issue tracking with GitHub's new Issues (Beta) experienc
 
 ---
 
-## GitHub Copilot Workspace: Idea to Implementation
+## 🔹 GitHub Copilot Workspace: Idea to Implementation
 
 ### 📝About this event: 
 
@@ -165,7 +167,7 @@ Imagine turning your concepts into working code effortlessly, streamlining your 
 
 ---
 
-## Exciting Launch: Our New Automation Toolkit!
+## 🔹 Exciting Launch: Our New Automation Toolkit!
 
 ### 📝About this event: 
 
@@ -186,7 +188,7 @@ Step-by-step sessions where we’ll guide you through setting up Microsoft Cloud
 
 ---
 
-## Accelerate Business Delivery with AI And DevOps
+## 🔹 Accelerate Business Delivery with AI And DevOps
 
 ### 📝About this event: 
 
@@ -206,7 +208,7 @@ This session will dive into a hands-on exploration of a real business scenario, 
 
 ---
 
-## Guest Speaker: The Secret to Success with Sandra Kiel
+## 🔹 Guest Speaker: The Secret to Success with Sandra Kiel
 
 ### 📝About this event: 
 
