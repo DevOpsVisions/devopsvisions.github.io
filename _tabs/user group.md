@@ -25,26 +25,15 @@ Within the community, members actively engage in various collaborative and devel
 
 These activities are designed to benefit everyone—from novices to experts—while reinforcing the habit of lifelong learning.
 
-## Community Gathering 
+## Community Gathering
 
-### Egypt/Cairo August 2024
+|   |   |   |
+|:-:|:-:|:-:|
+|[![August 24](/assets/img/mics/gathering/egy-aug-24-small.png)](/assets/img/mics/gathering/egy-aug-24.png)<br>Egypt/Cairo<br>Aug 24|[![Mar 24](/assets/img/mics/gathering/ksa-mar-24-small.png)](/assets/img/mics/gathering/ksa-mar-24.png)<br>KSA/Riyadh<br>Mar 24|[![Nov 23](/assets/img/mics/gathering/jap-nov-23-small.png)](/assets/img/mics/gathering/jap-nov-23.png)<br>Japan/Tokyo<br>Nov 23|
+|[![Apr 23](/assets/img/mics/gathering/usa-apr-23-small.png)](/assets/img/mics/gathering/usa-apr-23.png)<br>USA/Seattle<br>Apr 23|[![Feb 23](/assets/img/mics/gathering/eg-feb-23-small.png)](/assets/img/mics/gathering/eg-feb-23.png)<br>Egypt/Cairo<br>Feb 23|[![Placeholder](/assets/img/mics/gathering/placeholder-small.png)](/assets/img/mics/gathering/placeholder.png)<br>Country/City<br>M Y|
+|[![Placeholder](/assets/img/mics/gathering/placeholder-small.png)](/assets/img/mics/gathering/placeholder.png)<br>Country/City<br>M Y|[![Placeholder](/assets/img/mics/gathering/placeholder-small.png)](/assets/img/mics/gathering/placeholder.png)<br>Country/City<br>M Y|[![Placeholder](/assets/img/mics/gathering/placeholder-small.png)](/assets/img/mics/gathering/placeholder.png)<br>Country/City<br>M Y|
 
-![EGY](/assets/img/mics/gathering-egy-aug-24.png)
 
-### KSA/Riyadh March 2024
 
-![KSA](/assets/img/mics/gathering-ksa-mar-24.jpg)
-
-### Japan/Tokyo Nov 2023
-
-![Japan](/assets/img/mics/gathering-jap-nov-23.jpg)
-
-### USA/Seattle April 2023
-
-![USA](/assets/img/mics/gathering-usa-apr-23.jpg)
-
-### Egypt/Cairo Feb 2023
-
-![Egypt](/assets/img/mics/gathering-eg-feb-23.jpg)
 
 
