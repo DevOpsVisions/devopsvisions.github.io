@@ -1,8 +1,10 @@
 ---
-title: DevOps User Group
+title: Our User Group
 icon: fas fa-users
 order: 4
 ---
+
+# DevOps & GenAI User Group
 
 An exclusive, global community of approximately 150 members representing over **20 countries**. Our members span a wide range of experience—from early-career professionals with just one to two years in the field, to seasoned experts with **up to 25 years** of deep industry expertise.
 
