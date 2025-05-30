@@ -29,9 +29,9 @@ As an organization admin, you can customize the Issue Types for the organization
 7. If you would like to prevent this new type from being assigned to issues created in public repositories, click **Private repositories only**
 8. Click Create
 
-![Create New Type](/assets/img/issue-types/1-create-new-type.png)
+   ![Create New Type](/assets/img/issue-types/1-create-new-type.png)
 
-![Create New Type](/assets/img/issue-types/2-create-new.png)
+   ![Create New Type](/assets/img/issue-types/2-create-new.png)
 
 ## Making changes to Issue Types (Edit, Disable, Delete)
 
@@ -45,9 +45,9 @@ You can edit Issue Type, by changing it's name, description, color, or restricti
 4. Click **Save**
 5. If you want to discard any changes, click **Revert changes**
 
-![Type Options](/assets/img/issue-types/3-type-options.png)
+   ![Type Options](/assets/img/issue-types/3-type-options.png)
 
-![Revert Changes](/assets/img/issue-types/4-edit-save-revert.png)
+   ![Revert Changes](/assets/img/issue-types/4-edit-save-revert.png)
 
 ### Disabling an Issue Type
 
@@ -57,7 +57,7 @@ If an Issue Type is no longer relevant, you can disable it. Once you disabled, i
 2. In the menu, click **Disable**
 3. Confirm by clicking **Disable** in the prompt
 
-![Disable](/assets/img/issue-types/5-disable.png)
+   ![Disable](/assets/img/issue-types/5-disable.png)
 
 ### Deleting an Issue Type
 
@@ -67,7 +67,7 @@ If an Issue Type is completely obsolete, you can permanently delete it. Once you
 2. In the menu, click **Delete**
 3. Confirm by clicking **Delete** in the prompt
 
-![Delete](/assets/img/issue-types/6-delete.png)
+   ![Delete](/assets/img/issue-types/6-delete.png)
 
 > Once you delete the Issue Type, it can't be restored
 {: .prompt-danger }
@@ -78,9 +78,9 @@ When creating a new issue, you can easily assign an Issue Type:
 
 1. In the `Type` dropdown menu, select the appropriate Issue Type.
 
-![](/assets/img/issue-types/7-create-issue-by-type.png)
+   ![Issue by Type](/assets/img/issue-types/7-create-issue-by-type.png)
 
-![](/assets/img/issue-types/8-multi-issues-with-types.png)
+   ![Multi Issues](/assets/img/issue-types/8-multi-issues-with-types.png)
 
 > You can use the new **Create more** button to quickly create multiple issues without being redirected to the issue details page. This feature keeps you on the issue creation page, enabling you to efficiently add multiple issues back-to-back.
 {: .prompt-tip }
@@ -89,24 +89,24 @@ When creating a new issue, you can easily assign an Issue Type:
 
 To change the Issue Type for a single issue:
 
-Open the issue, click on the `Type` dropdown menu, and select the new Issue Type you'd like to assign.
+1. Open the issue, click on the `Type` dropdown menu, and select the new Issue Type you'd like to assign.
 
-![Change Type](/assets/img/issue-types/9-change-single-issue-type.png)
+   ![Change Type](/assets/img/issue-types/9-change-single-issue-type.png)
 
 You can also change the Issue Type for multiple issues at once:
 
-Select the issues, then from the `Issue Type` dropdown, and select the new Issue Type you'd like to assign.
+1. Select the issues, then from the `Issue Type` dropdown, and select the new Issue Type you'd like to assign.
 
-![Change Type](/assets/img/issue-types/10-change-multi-issue-type.png)
+   ![Change Type](/assets/img/issue-types/10-change-multi-issue-type.png)
 
 ## Filtering Issues by Type
 
 You can filter issues by their type to quickly find and manage relevant issues. In the issues view, use the `Issue Type` field to apply this filter.
 
-- From the filter bar, type `type`, then select the desired Issue Type.
-- Alternatively, use the `Types` dropdown menu to select the type you would like to filter by.
+1. From the filter bar, type `type`, then select the desired Issue Type.
+2. Alternatively, use the `Types` dropdown menu to select the type you would like to filter by.
   
-![Filter by Type](/assets/img/issue-types/11-filter-by-type.png)
+   ![Filter by Type](/assets/img/issue-types/11-filter-by-type.png)
 
 
 ## Creating custom views in your project
@@ -118,18 +118,18 @@ You can customize your project views by using the new `Type` field to filter, sl
 1. From your view, select **Group by:**
 2. Select **Type**
 
-![Group by Type](/assets/img/issue-types/12-group-by-type.png)
+   ![Group by Type](/assets/img/issue-types/12-group-by-type.png)
 
-![Group by Type](/assets/img/issue-types/13-group-by-view.png)
+   ![Group by Type](/assets/img/issue-types/13-group-by-view.png)
 
 ### Slice by Type
 
 1. From your view, select **Slice by:**
 2. Select **Type**
 
-![Slice by Type](/assets/img/issue-types/14-slice-by.png)
+   ![Slice by Type](/assets/img/issue-types/14-slice-by.png)
 
-![Slice by Type](/assets/img/issue-types/15-slice-by-view.png)
+   ![Slice by Type](/assets/img/issue-types/15-slice-by-view.png)
 
 ## Auto-add to project workflow
 
@@ -138,25 +138,25 @@ You can set up a workflow that automatically adds issues to your project based o
 1. Within your project, click the three dots (...)
 2. Click on **Workflows**
    
-![](/assets/img/issue-types/16-automation-workflow.png)
+   ![Automation Workflow](/assets/img/issue-types/16-automation-workflow.png)
 
 1. On the left, under the list of default workflows, click **Auto-add to project**.
 2. Click **Edit**
    
-![Auto Add to Project](/assets/img/issue-types/17-auto-add.png)
+   ![Auto Add to Project](/assets/img/issue-types/17-auto-add.png)
 
 1. Inside the filter input, type `Type`, then select the Issue Type you would like to filter by. You can filter by `Has type`, `No Type`, `Exclude Type`, or select a specific type.
 
-![](/assets/img/issue-types/18-auto-add-type-filter.png)
+   ![Type Filter](/assets/img/issue-types/18-auto-add-type-filter.png)
 
 2. Click **Save and turn on workflow**
 
-![Auto Add to Project](/assets/img/issue-types/19-auto-add-save.png)
+   ![Auto Add to Project](/assets/img/issue-types/19-auto-add-save.png)
 
-**Example**
-For example, if your filter is set to `is:issue type:"Bug"`, this means whenever you create a new issue of type **Bug** in your selected repository, that issue will automatically be added to your project.
+   ![Auto Add to Project](/assets/img/issue-types/20-auto-add-test.gif)
 
-![Auto Add to Project](/assets/img/issue-types/20-auto-add-test.gif)
+> **Example:** If your filter is set to `is:issue type:"Bug"`, this means whenever you create a new issue of type **Bug** in your selected repository, that issue will automatically be added to your project.
+{: .prompt-tip }
 
 ## Conclusion
 
