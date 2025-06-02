@@ -44,23 +44,24 @@ These activities are designed to benefit everyone—from novices to experts—wh
 
 ## Community Gathering
 
-<table style="margin: 0 auto; text-align: center;">
+<table style="margin-left: 0;">
 <tr>
-<td><a href="/assets/img/mics/gathering/egy-aug-24.png" target="_blank"><img src="/assets/img/mics/gathering/egy-aug-24-small.png" alt="August 2024"></a><br>Egypt/Cairo<br>Aug 2024</td>
-<td><a href="/assets/img/mics/gathering/ksa-mar-24.png" target="_blank"><img src="/assets/img/mics/gathering/ksa-mar-24-small.png" alt="Mar 2024"></a><br>KSA/Riyadh<br>Mar 2024</td>
-<td><a href="/assets/img/mics/gathering/jap-nov-23.png" target="_blank"><img src="/assets/img/mics/gathering/jap-nov-23-small.png" alt="Nov 2023"></a><br>Japan/Tokyo<br>Nov 2023</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/egy-aug-24.png" target="_blank"><img src="/assets/img/mics/gathering/egy-aug-24-small.png" alt="August 2024"></a><br>Egypt/Cairo<br>Aug 2024</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/ksa-mar-24.png" target="_blank"><img src="/assets/img/mics/gathering/ksa-mar-24-small.png" alt="Mar 2024"></a><br>KSA/Riyadh<br>Mar 2024</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/jap-nov-23.png" target="_blank"><img src="/assets/img/mics/gathering/jap-nov-23-small.png" alt="Nov 2023"></a><br>Japan/Tokyo<br>Nov 2023</td>
 </tr>
 <tr>
-<td><a href="/assets/img/mics/gathering/usa-apr-23.png" target="_blank"><img src="/assets/img/mics/gathering/usa-apr-23-small.png" alt="Apr 2023"></a><br>USA/Seattle<br>Apr 2023</td>
-<td><a href="/assets/img/mics/gathering/eg-feb-23.png" target="_blank"><img src="/assets/img/mics/gathering/eg-feb-23-small.png" alt="Feb 2023"></a><br>Egypt/Cairo<br>Feb 2023</td>
-<td><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/usa-apr-23.png" target="_blank"><img src="/assets/img/mics/gathering/usa-apr-23-small.png" alt="Apr 2023"></a><br>USA/Seattle<br>Apr 2023</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/eg-feb-23.png" target="_blank"><img src="/assets/img/mics/gathering/eg-feb-23-small.png" alt="Feb 2023"></a><br>Egypt/Cairo<br>Feb 2023</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
 </tr>
 <tr>
-<td><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
-<td><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
-<td><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
+<td style="text-align: center;"><a href="/assets/img/mics/gathering/placeholder.png" target="_blank"><img src="/assets/img/mics/gathering/placeholder-small.png" alt="Placeholder"></a><br>Country/City<br>M YYYY</td>
 </tr>
 </table>
+
 
 ## Related Links
 
