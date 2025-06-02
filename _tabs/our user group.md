@@ -8,7 +8,7 @@ order: 4
 
 🌍 150+ members | 🌐 20+ countries | 📈 25 years of experience
 
-[📊 View Full Community Stats ↓](#-community-stats)
+[View Full Community Stats ↓](#community-stats)
 
 An exclusive, global community of approximately 150 members representing over **20 countries**. Our members span a wide range of experience—from early-career professionals with just one to two years in the field, to seasoned experts with **up to 25 years** of deep industry expertise.
 
@@ -31,6 +31,17 @@ Within the community, members actively engage in various collaborative and devel
 
 These activities are designed to benefit everyone—from novices to experts—while reinforcing the habit of lifelong learning.
 
+## Community Stats
+
+| 🛠️ Tools | 📁 Repos | 🧪 GitHub Orgs | 🌟 Stars | 👥 Contributors |
+|:--------:|:--------:|:--------------:|:--------:|:----------------:|
+| **10**   | **30+**  | **2**          | **1,000+** | **100+**         |
+| 🐛 Open Issues | ✅ Closed Issues | 🍴 Forks | ▶️ YouTube Channels | 📺 Videos |
+| **300+**       | **1000+**         | **500+** | **2**                | **400+**  |
+| 📝 Blog Posts  | 🗓️ Events        | 💬 Tech Sessions | 🎥 Subscribers     | 🔔 Followers |
+| **500+**        | **10+**          | **10+**         | **40,000+**         | **50,000+**       |
+
+
 ## Community Gathering
 
 <table style="margin: 0 auto; text-align: center;">
@@ -51,37 +62,40 @@ These activities are designed to benefit everyone—from novices to experts—wh
 </tr>
 </table>
 
-<!-- 📊 Community Stats Section -->
+## Related Links
 
-## 📊 Community & Contribution Stats
+### GitHub Organizations
+- [DevOps Visions](https://github.com/devopsvisions)
+- [Elmentor Program](https://github.com/ElmentorProgram)
 
-### 👥 Community Stats
+### Open Source Projects
+- [WordPress Automation Toolkit](https://github.com/DevOpsVisions/wordpress-automation-toolkit)
+- [Q2A Automation Toolkit](https://github.com/DevOpsVisions/question2answer-automation-toolkit)
+- [Common Workspace Hub](https://github.com/DevOpsVisions/common-workspace-hub)
+- [Common Components Library](https://github.com/DevOpsVisions/common-components)
+- [OneDrive Downloader Action](https://github.com/DevOpsVisions/onedrive-downloader-action)
+- [File System Interactor](https://github.com/DevOpsVisions/file-system-interactor)
+- [DevOps Step-by-Step Guide](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
 
-| 👥 [Contributors](https://github.com/devopsvisions) | 🧩 [Open Source Projects](https://github.com/devopsvisions?tab=repositories) | 🧪 [GitHub Orgs](https://github.com/devopsvisions) | 💬 [Tech Sessions](/posts/2024-public-sessions/) | 📝 [Blog Posts](/) |
-|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
-| **1,500+**                                                       | **10+**                                                         | **2**                                      | **10+**                                   | **10**                                     |
+### YouTube Channels
+- [Mohamed Radwan (English)](https://www.youtube.com/@MRadwanMSF)
+- [Mohamed Radwan (Arabic)](https://www.youtube.com/@MRadwanArabic)
 
-### 🧩 Contribution Stats
+### Websites & Blogs
+- [DevOps Visions Website](http://www.devopsvisions.com/)
+- [Elmentor Program Website](http://elmentorprogram.com/)
+- [DevOps Visions Blog](https://devopsvisions.github.io/)
+- [Mohamed Radwan Blog](https://mohamedradwan-devops.github.io/)
+- [Rehab Ragab Blog](https://rehababotalep.github.io/)
+- [Hoda Osama Blog](https://hodausama.github.io/)
 
-| 🗓️ [Events](/user-group-events/) | 📁 [Repos](https://github.com/devopsvisions) | 🛠️ [Tools](https://github.com/devopsvisions?tab=repositories) | 🌟 [Stars](https://github.com/devopsvisions?tab=repositories) |
-|:-------------------------------:|:-------------------------------------------:|:----------------------------------------:|:-------------------------------------------------------------:|
-| **10+**                         | **30+**                                     | **10**                                   | **1,000+**                                                    |
+### Social Pages
+- [DevOps Visions LinkedIn](https://www.linkedin.com/company/devops-visions/)
+- [DevOps Visions Facebook](https://www.facebook.com/vsalmplanet)
 
-### 🔗 Related Links
-
-- **GitHub Organization:** 
-   - [DevOps Visions](https://github.com/devopsvisions)
-   - [Elmentor Program](https://github.com/ElmentorProgram)
-- **Open Source Projects:** 
-   - [wordpress-automation-toolkit](https://github.com/DevOpsVisions/wordpress-automation-toolkit)
-   - [question2answer-automation-toolkit](https://github.com/DevOpsVisions/question2answer-automation-toolkit)
-   - [common-workspace-hub](https://github.com/DevOpsVisions/common-workspace-hub)
-   - [common-components](https://github.com/DevOpsVisions/common-components)
-   - [onedrive-downloader-action](https://github.com/DevOpsVisions/onedrive-downloader-action)
-   - [file-system-interactor](https://github.com/DevOpsVisions/file-system-interactor)
-   - [devops-step-by-step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
-- **Events Page:** [Events](/user-group-events/)
-- **Featured Posts:** [Posts](/)
+### Events & Highlights
+- [Events Page](/user-group-events/)
+- [Featured Posts](/)
 
 
 
