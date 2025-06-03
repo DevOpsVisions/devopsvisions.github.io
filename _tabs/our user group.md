@@ -33,13 +33,50 @@ These activities are designed to benefit everyone—from novices to experts—wh
 
 ## Community Stats
 
-| 🛠️ Tools | 📁 Repos | 🧪 GitHub Orgs | 🌟 Stars | 👥 Contributors |
-|:--------:|:--------:|:--------------:|:--------:|:----------------:|
-| **10**   | **30+**  | **2**          | **1,000+** | **100+**         |
-| 🐛 Open Issues | ✅ Closed Issues | 🍴 Forks | ▶️ YouTube Channels | 📺 Videos |
-| **300+**       | **1000+**         | **500+** | **2**                | **400+**  |
-| 📝 Blog Posts  | 🗓️ Events        | 💬 Tech Sessions | 🎥 Subscribers     | 🔔 Followers |
-| **500+**        | **10+**          | **10+**         | **40,000+**         | **50,000+**       |
+<table style="margin-left: 0;">
+  <tr>
+    <td style="text-align: center;">🛠️ Tools</td>
+    <td style="text-align: center;">📁 Repos</td>
+    <td style="text-align: center;">🧪 GitHub Orgs</td>
+    <td style="text-align: center;">🌟 Stars</td>
+    <td style="text-align: center;">👥 Contributors</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">10</td>
+    <td style="text-align: center;">30+</td>
+    <td style="text-align: center;">2</td>
+    <td style="text-align: center;">1,000+</td>
+    <td style="text-align: center;">100+</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">🐛 Open Issues</td>
+    <td style="text-align: center;">✅ Closed Issues</td>
+    <td style="text-align: center;">🍴 Forks</td>
+    <td style="text-align: center;">▶️ YouTube Channels</td>
+    <td style="text-align: center;">📺 Videos</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">300+</td>
+    <td style="text-align: center;">1,000+</td>
+    <td style="text-align: center;">500+</td>
+    <td style="text-align: center;">2</td>
+    <td style="text-align: center;">400+</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">📝 Blog Posts</td>
+    <td style="text-align: center;">🗓️ Events</td>
+    <td style="text-align: center;">💬 Tech Sessions</td>
+    <td style="text-align: center;">🎥 Subscribers</td>
+    <td style="text-align: center;">🔔 Followers</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">500+</td>
+    <td style="text-align: center;">10+</td>
+    <td style="text-align: center;">10+</td>
+    <td style="text-align: center;">40,000+</td>
+    <td style="text-align: center;">50,000+</td>
+  </tr>
+</table>
 
 
 ## Community Gathering
